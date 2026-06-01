@@ -25,7 +25,7 @@ img{
     width:200px
     border-radius:15px 
     margin:15px,0;
-   height:100px
+   height:auto;
   }
 h1{  
   color:#ff4d6d;
