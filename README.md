@@ -41,7 +41,7 @@ p{
   
 <h1>U Are Special  to me 🧿🤍</h1>
 
-<img src="photo.jpg"> alt="Special Person"> 
+<img src="IMG_20260601_122436_491.jpg"> alt="Special Person"> 
 
 <p>To someone who mean more to me than
   word can explain. 
