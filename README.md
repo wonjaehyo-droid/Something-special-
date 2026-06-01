@@ -51,9 +51,9 @@ p{
   word can explain. 
         
    Me ya chayie hu ki tumhare din Acha aur 
-   happy rh..  tumhare chehre par smile rh hai.. 
-  aacha lgta tabhi tum khush hote ho .
-   tab tum baat share krt ho acha lgta hai mujhe 🧿🥺❤️
+   happy rh.Tumhare chehre par smile rh hai.. 
+  aacha lgta tabhi tum khush hote ho.
+   Tab tum baat share krt ho acha lgta hai mujhe 🧿🥺❤️
  
  shayad kuch baat na share karu ya woh feeling but 
 u mean alot to me .
