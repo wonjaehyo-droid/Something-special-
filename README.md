@@ -17,7 +17,7 @@ body{
     background:white;
     padding:30px;
     border-radius:20px;
-    max-width:500px;
+    max-width:300px;
     box-shadaw:0 10px 25px 
     regba(0,0,0,2);
 }
