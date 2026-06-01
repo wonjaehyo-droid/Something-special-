@@ -22,9 +22,10 @@ body{
     regba(0,0,0,2);
 }
 img{
-    width:150px
-    border-radius:10px 
-    margin:10px,0;
+    width:200px
+    border-radius:15px 
+    margin:15px,0;
+   height:100px
   }
 h1{  
   color:#ff4d6d;
