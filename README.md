@@ -22,11 +22,12 @@ body{
     regba(0,0,0,2);
 }
 img{
-    width:200px
-    border-radius:15px 
-    margin:15px,0;
-   height:auto;
-  }
+    width:200px;
+    height:100px;
+   object-fit:cover;
+   border-radius:15px;
+   margin:15px 0; 
+}
 h1{  
   color:#ff4d6d;
   } 
