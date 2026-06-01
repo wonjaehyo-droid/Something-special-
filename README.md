@@ -48,7 +48,7 @@ p{
 <img src="IMG_20260601_122436_491.jpg" alt="Special Person"> 
 
 <p>To someone who mean more to me than
-  word can explain. 
+  word can explain.🥺
         
    Me ya chayie hu ki tumhare din Acha aur 
    happy rh.Tumhare chehre par smile rh hai.. 
