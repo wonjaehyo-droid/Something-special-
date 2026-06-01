@@ -15,10 +15,12 @@ body{
 }
 •card{
     background:white;
-    padding:30px;
+    padding:20px;
     border-radius:20px;
-    max-width:500px;
-    box-shadaw:0 10px 25px 
+    max-width:350px;
+    margin:auto;
+   text-align:auto;
+   box-shadaw:0 10px 25px 
     regba(0,0,0,2);
 }
 img{
@@ -61,7 +63,7 @@ u mean alot to me .
   no matter where life take us, always there for u.✨️💕
 </p> 
 
-<audio controls autoplay loop>
+<audio controls>
     <source src="Tum ho to.mp3" type="audio/mpeg">
 </audio>
 </div>
