@@ -43,7 +43,7 @@ p{
   
 <h1>U Are Special  to me 🧿🤍</h1>
 
-<img src="IMG_20260601_122436_491.jpg"> alt="Special Person"> 
+<img src="IMG_20260601_122436_491.jpg"> <alt="Special Person"> 
 
 <p>To someone who mean more to me than
   word can explain. 
@@ -62,7 +62,7 @@ u mean alot to me .
 </p> 
 
 <audio controls autoplay loop>
-    <source src="Tum ho to.mp3" type="audio/mpeg">
+    <source src="Tum-ho-to.mp3" type="audio/mpeg">
 </audio>
 </div>
 </body>
