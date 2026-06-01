@@ -17,12 +17,12 @@ body{
     background:white;
     padding:30px;
     border-radius:20px;
-    max-width:300px;
+    max-width:500px;
     box-shadaw:0 10px 25px 
     regba(0,0,0,2);
 }
 img{
-    width:220px
+    width:150px
     border-radius:15px 
     margin:15px,0;
   }
