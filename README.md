@@ -23,8 +23,8 @@ body{
 }
 img{
     width:150px
-    border-radius:15px 
-    margin:15px,0;
+    border-radius:10px 
+    margin:10px,0;
   }
 h1{  
   color:#ff4d6d;
